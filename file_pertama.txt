@@ -1,6 +1,5 @@
-# AndiPurnomoMSIBHTP
-
 Rincian Materi Pelatihan MSB Handevane Training Partner
+
 1. HTML dan CSS
 2. Github
 3. UI/UX
